@@ -14,7 +14,8 @@ Xiaomi/Redmi device universal root tutorial and tool
 
 1.什么是Root？
 
-    ROOT通常是指针对Android系统的手机而言，它使得用户可以获取Android操作系统的超级用户权限。root通常用于帮助用户越过手机制造商的限制，使得用户可以卸载手机制造商、运营商、第三方渠道商预装在手机中某些应用，以及运行一些需要超级用户权限的应用程序。Android系统的root与Apple iOS系统的越狱相似。
+    ROOT通常是指针对Android系统的手机而言，它使得用户可以获取Android操作系统的超级用户权限。root通常用于帮助用户越过手机制造商的限制，使得用户可以卸载手机制造商、运营商、第三方渠道商预装在手机中某些应用，以及运行一些需要超级用户权限的应用程序。
+    Android系统的root与Apple iOS系统的越狱相似。
 
     简单来说就是，通过解bl锁的方式为Magisk(面具)修补boot，从而获取Root权限。最大程度地开发手机，让用户真正的拥有了手机的使用权。
 
