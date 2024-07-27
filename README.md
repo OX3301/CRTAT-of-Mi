@@ -25,7 +25,7 @@ Xiaomi/Redmi device universal root tutorial and tool
 
   也可以理解为，获取Root权限是通往新世界的大门，但是大门被BootLoader锁上了。要想进入大门就得解开bl。（具体操作见压缩包）
 
-  以下为压缩包内部分文件及工具截图（文件已上传，如有需要自行下载）：
+  以下为压缩包内部分文件及工具截图（文件已上传到Releases，如有需要自行下载）：
 
 
   ![QQ_1722080105919](https://github.com/user-attachments/assets/767a88a9-9fb5-44f0-9383-a49146a479f2)
