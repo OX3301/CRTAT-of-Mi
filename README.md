@@ -1,14 +1,15 @@
 Complete root tutorial and tools for Mi  （CRTAT of Mi）
 
-Xiaomi/Redmi device universal root tutorial and tool
+Xiaomi/Redmi通用完整ROOT教程及工具
 
+声明：部分工具来源于网络；如有侵权，联系必删！！！
 
-
-注：部分工具来源于网络；如有侵权，联系必删！！！
 
 创作灵感：
 
 现在互联网上root教程有很多，但是完整又优质的教程却很少。所以笔者在百忙之中抽取了一天时间在互联网上搜集了root相关教程及工具。由于本人手上只有红米手机，所以只提供了小米root相关的教程，还请谅解！首次创作经验不足，欢迎评论指点改正。
+
+
 
 小白必看！！！（科普）
 
@@ -26,16 +27,8 @@ Xiaomi/Redmi device universal root tutorial and tool
   也可以理解为，获取Root权限是通往新世界的大门，但是大门被BootLoader锁上了。要想进入大门就得解开bl。（具体操作见压缩包）
 
   以下为压缩包内部分文件及工具截图（文件已上传到Releases，如有需要自行下载）：
-
-
-  ![QQ_1722080105919](https://github.com/user-attachments/assets/767a88a9-9fb5-44f0-9383-a49146a479f2)
-
-  ![QQ_1722079983140](https://github.com/user-attachments/assets/cdf10b18-26e5-4c10-946b-a0bbef1a8bf9)
-  
-  ![QQ_1722080014861](https://github.com/user-attachments/assets/c582a6f4-02f1-463b-9c60-332db5a8670b)
-  
-  ![QQ_1722080037331](https://github.com/user-attachments/assets/8720ff1c-1953-4306-9bf9-a15d36c153b9)
-
-  
+![QQ20240905-235230](https://github.com/user-attachments/assets/b10f0eb1-0460-4a39-bc99-cc90d5e25633)
+![QQ20240905-235328](https://github.com/user-attachments/assets/682d44ee-e263-424b-af7b-970f91ad9e7b)
+![QQ20240905-235411](https://github.com/user-attachments/assets/5f870a74-9d21-426c-aca6-2b3528e1ffc1)
 
 
