@@ -1,4 +1,4 @@
-Complete root tutorial and tools for Mi  （CRTAT of Mi）
+（CRTAT of Mi） Complete root tutorial and tools for Mi 
 
 Xiaomi/Redmi通用完整ROOT教程及工具
 
